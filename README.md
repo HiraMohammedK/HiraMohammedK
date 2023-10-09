@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently pursuing Integrated MSc in Computer Science at Cochin University of Science and Technology. <br>👯 I’m looking to collaborate on new projects. <br>🌱 I’m currently learning new frameworks and programming languages. <br>💬 In case of queries contact me at hira.mohammedk@gmail.com.
 
 
@@ -17,4 +17,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HiraMohammedK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
+
